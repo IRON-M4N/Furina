@@ -1,2 +1,1 @@
-# Furina
-Discord bot
+# soon
